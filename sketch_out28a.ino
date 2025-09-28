@@ -11,6 +11,10 @@
 #include <ArduinoJson.h>
 #include <AdafruitIO_WiFi.h>
 
+// NOVAS BIBLIOTECAS PARA AWS IOT
+#include <WiFiClientSecure.h>
+#include <PubSubClient.h>
+
 // ==========================================================================
 // CONSTANTES E DEFINIÇÕES
 // ==========================================================================
@@ -21,9 +25,10 @@
 #define CONFIG_FILE "/config.json"
 #define SERIAL_TIMEOUT 30000
 #define PUBLISH_INTERVAL 5000
+#define AWS_IOT_PORT 8883 // Porta padrão para MQTT seguro
 
 // ==========================================================================
-// VARIÁVEIS GLOBAIS
+// VARIÁVEIS GLOBAIS E CONFIGURAÇÃO
 // ==========================================================================
 struct Config {
   char wifi_ssid[34] = "Cayque e Camila 2G";
@@ -31,6 +36,10 @@ struct Config {
   char aio_username[40] = "Cayque_1";
   char aio_key[40] = "aio_FGxB84KBqIDn6Dw2xPapvAFAPNTW";
   char feed_name[60] = "pressao";
+  
+  // NOVOS CAMPOS PARA AWS IOT
+  char aws_iot_endpoint[100] = "SEU_ENDPOINT_AWS_AQUI.amazonaws.com"; // EX: simig.ats.iot.sa-east-1.amazonaws.com
+  char aws_mqtt_topic[60] = "dispositivo/pressao";
 };
 
 Config config;
@@ -44,6 +53,34 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 AdafruitIO_WiFi io(config.aio_username, config.aio_key, config.wifi_ssid, config.wifi_password);
 AdafruitIO_Feed *press1 = nullptr;
 
+// NOVOS OBJETOS AWS IOT
+WiFiClientSecure aws_client;
+PubSubClient mqtt_aws(aws_client);
+
+
+// ==========================================================================
+// CERTIFICADOS AWS IOT (O USUÁRIO DEVE PREENCHER COM SEUS DADOS)
+// ==========================================================================
+
+// 1. Certificado CA Raiz da Amazon
+const char *aws_root_ca =
+    "-----BEGIN CERTIFICATE-----\n"
+    "COLE_AQUI_O_CONTEÚDO_DO_SEU_CERTIFICADO_CA_RAIZ\n"
+    "-----END CERTIFICATE-----\n";
+
+// 2. Certificado do Dispositivo (Cliente)
+const char *aws_device_cert =
+    "-----BEGIN CERTIFICATE-----\n"
+    "COLE_AQUI_O_CONTEÚDO_DO_SEU_CERTIFICADO_DO_DISPOSITIVO\n"
+    "-----END CERTIFICATE-----\n";
+
+// 3. Chave Privada do Dispositivo
+const char *aws_private_key =
+    "-----BEGIN RSA PRIVATE KEY-----\n"
+    "COLE_AQUI_O_CONTEÚDO_DA_SUA_CHAVE_PRIVADA\n"
+    "-----END RSA PRIVATE KEY-----\n";
+
+
 // ==========================================================================
 // FUNÇÕES DE MANIPULAÇÃO DE CONFIGURAÇÃO
 // ==========================================================================
@@ -54,6 +91,10 @@ bool saveConfiguration() {
   json["aio_username"] = config.aio_username;
   json["aio_key"] = config.aio_key;
   json["feed_name"] = config.feed_name;
+
+  // NOVOS CAMPOS AWS
+  json["aws_iot_endpoint"] = config.aws_iot_endpoint;
+  json["aws_mqtt_topic"] = config.aws_mqtt_topic;
 
   File configFile = LittleFS.open(CONFIG_FILE, "w");
   if (!configFile) {
@@ -98,6 +139,10 @@ bool loadConfiguration() {
   strlcpy(config.aio_key, json["aio_key"] | "aio_FGxB84KBqIDn6Dw2xPapvAFAPNTW", sizeof(config.aio_key));
   strlcpy(config.feed_name, json["feed_name"] | "pressao", sizeof(config.feed_name));
 
+  // NOVOS CAMPOS AWS
+  strlcpy(config.aws_iot_endpoint, json["aws_iot_endpoint"] | "SEU_ENDPOINT_AWS_AQUI.amazonaws.com", sizeof(config.aws_iot_endpoint));
+  strlcpy(config.aws_mqtt_topic, json["aws_mqtt_topic"] | "dispositivo/pressao", sizeof(config.aws_mqtt_topic));
+
   configFile.close();
   Serial.println("Configuração carregada com sucesso");
   return true;
@@ -106,6 +151,8 @@ bool loadConfiguration() {
 // ==========================================================================
 // FUNÇÕES DE CONECTIVIDADE
 // ==========================================================================
+
+// Função existente para Adafruit IO
 void connectToAdafruitIO() {
   Serial.print("Conectando ao Adafruit IO... ");
   
@@ -124,6 +171,33 @@ void connectToAdafruitIO() {
   Serial.println(io.statusText());
 }
 
+// NOVA FUNÇÃO PARA AWS IOT
+void connectToAWSIoT() {
+  Serial.print("Conectando ao AWS IoT Core... ");
+
+  if (strlen(aws_root_ca) < 100) {
+    Serial.println("ERRO: Certificados AWS não configurados!");
+    return;
+  }
+  
+  // Configura os certificados para o cliente seguro
+  aws_client.setTrustAnchors(aws_root_ca);
+  aws_client.setClientRSACert(aws_device_cert, aws_private_key);
+  
+  // Configura o cliente MQTT
+  mqtt_aws.setServer(config.aws_iot_endpoint, AWS_IOT_PORT);
+
+  // Tenta conectar
+  String clientId = "ESP8266-" + String(micros());
+  if (mqtt_aws.connect(clientId.c_str())) {
+    Serial.println("Conectado ao AWS IoT!");
+  } else {
+    Serial.print("Falha na conexão AWS IoT. Código: ");
+    Serial.println(mqtt_aws.state());
+  }
+}
+
+// Função existente para OTA
 void setupOTA() {
   ArduinoOTA.setHostname("sensor-pressao");
   ArduinoOTA.onStart([]() { Serial.println("OTA iniciando..."); });
@@ -147,6 +221,8 @@ void setupOTA() {
 // ==========================================================================
 // FUNÇÕES DE INTERFACE SERIAL
 // ==========================================================================
+// ... (funções readSerialString e setupDisplay permanecem inalteradas) ...
+
 String readSerialString() {
   while (Serial.available() > 0) Serial.read(); // Limpa buffer
   unsigned long startTime = millis();
@@ -177,6 +253,13 @@ void showCurrentConfig() {
   Serial.println("*****");
   Serial.print("Nome do Feed: ");
   Serial.println(config.feed_name);
+  
+  // NOVOS CAMPOS AWS
+  Serial.print("Endpoint AWS IoT: ");
+  Serial.println(config.aws_iot_endpoint);
+  Serial.print("Tópico MQTT AWS: ");
+  Serial.println(config.aws_mqtt_topic);
+  
   Serial.println("-------------------\n");
 }
 
@@ -226,6 +309,25 @@ void runConfigMenu() {
     strlcpy(config.feed_name, newFeed.c_str(), sizeof(config.feed_name));
   }
 
+  // NOVO: Endpoint AWS
+  Serial.print("Novo Endpoint AWS IoT [");
+  Serial.print(config.aws_iot_endpoint);
+  Serial.print("]: ");
+  String newEndpoint = readSerialString();
+  if (newEndpoint.length() > 0) {
+    strlcpy(config.aws_iot_endpoint, newEndpoint.c_str(), sizeof(config.aws_iot_endpoint));
+  }
+
+  // NOVO: Tópico AWS
+  Serial.print("Novo Tópico MQTT AWS [");
+  Serial.print(config.aws_mqtt_topic);
+  Serial.print("]: ");
+  String newTopic = readSerialString();
+  if (newTopic.length() > 0) {
+    strlcpy(config.aws_mqtt_topic, newTopic.c_str(), sizeof(config.aws_mqtt_topic));
+  }
+
+
   if (saveConfiguration()) {
     Serial.println("\nConfiguração salva com sucesso!");
     showCurrentConfig();
@@ -265,7 +367,7 @@ void setup() {
     Serial.println("Usando configuração padrão");
   }
   
-  // Conecta ao WiFi e Adafruit IO
+  // Conecta ao WiFi
   if (WiFi.begin(config.wifi_ssid, config.wifi_password)) {
     unsigned long startTime = millis();
     while (WiFi.status() != WL_CONNECTED && millis() - startTime < 10000) {
@@ -274,30 +376,31 @@ void setup() {
     }
     
     if (WiFi.status() == WL_CONNECTED) {
-      onlineMode = true;
+      onlineMode = true; // Indica conectividade geral
       Serial.println("\nWiFi conectado!");
       Serial.print("IP: ");
       Serial.println(WiFi.localIP());
 
       
       setupOTA();
+      
+      // Conecta ao Adafruit IO
       connectToAdafruitIO();
 
-     display.clearDisplay();
-     display.setTextSize(1);
-     display.setCursor(0, 0);
-     display.print("Conectado");
-     display.setCursor(0, 28);
-     display.setTextSize(4);
-     display.print("Hello");
-     display.display();
-     delay(500);
-      
+      // Conecta ao AWS IoT Core
+      connectToAWSIoT();
+
       display.clearDisplay();
       display.setCursor(0, 0);
       display.setTextSize(1);
-      display.println("MODO ONLINE");
+      display.println("MODO ONLINE DUPLO");
+      display.setCursor(0, 10);
+      display.print("IO: ");
+      display.println(io.status() == AIO_CONNECTED ? "OK" : "FALHA");
       display.setCursor(0, 20);
+      display.print("AWS: ");
+      display.println(mqtt_aws.connected() ? "OK" : "FALHA");
+      display.setCursor(0, 30);
       display.print("IP: ");
       display.println(WiFi.localIP());
       display.display();
@@ -331,11 +434,21 @@ void loop() {
   // Mantém conexões ativas
   if (onlineMode) {
     ArduinoOTA.handle();
-    io.run(); // Mantém a conexão MQTT ativa
     
-    if (io.status() != AIO_CONNECTED) {
-      onlineMode = false;
-      Serial.println("Desconectado do Adafruit IO");
+    // Mantém a conexão Adafruit IO ativa (MQTT)
+    io.run(); 
+    
+    // Mantém a conexão AWS IoT ativa (reconexão automática se necessário)
+    if (!mqtt_aws.connected() && WiFi.status() == WL_CONNECTED) {
+      Serial.println("Tentando reconectar AWS IoT...");
+      connectToAWSIoT();
+    } else {
+      mqtt_aws.loop(); // Processa tráfego MQTT da AWS
+    }
+    
+    // Verifica se perdeu ambas as conexões para evitar erros
+    if (io.status() != AIO_CONNECTED && !mqtt_aws.connected()) {
+        // onlineMode = false; // Não é estritamente necessário, mas pode ajudar na clareza
     }
   }
 
@@ -356,8 +469,21 @@ void loop() {
     display.println("Pressao:");
     display.setCursor(78, 0);
     display.println("kgf/cm2");
+    
     display.setCursor(80, 56);
-    display.print(onlineMode ? "Online" : "Offline");
+    // Indica o status de ambas as conexões
+    bool aio_ok = io.status() == AIO_CONNECTED;
+    bool aws_ok = mqtt_aws.connected();
+    
+    if (aio_ok && aws_ok) {
+        display.print("IO/AWS OK");
+    } else if (aio_ok) {
+        display.print("IO OK");
+    } else if (aws_ok) {
+        display.print("AWS OK");
+    } else {
+        display.print("Offline");
+    }
     
     display.setTextSize(4);
     display.setCursor(10, 18);
@@ -369,12 +495,29 @@ void loop() {
     Serial.print(pressao_kgfcm2, 2);
     Serial.println(" kgf/cm²");
 
-    // Publica no Adafruit IO se estiver online
-    if (onlineMode && press1) {
+    // =======================================================================
+    // PUBLICAÇÃO 1: Adafruit IO
+    // =======================================================================
+    if (onlineMode && press1 && io.status() == AIO_CONNECTED) {
       if (!press1->save(pressao_kgfcm2)) {
-        Serial.println("Falha ao publicar dados!");
+        Serial.println("Falha ao publicar dados no Adafruit IO!");
       } else {
-        Serial.println("Dados publicados com sucesso!");
+        Serial.println("Dados publicados com sucesso no Adafruit IO!");
+      }
+    }
+
+    // =======================================================================
+    // PUBLICAÇÃO 2: AWS IoT Core
+    // =======================================================================
+    if (onlineMode && mqtt_aws.connected()) {
+      // Cria um JSON payload
+      String payload = "{\"pressao\": " + String(pressao_kgfcm2, 2) + "}";
+      
+      if (mqtt_aws.publish(config.aws_mqtt_topic, payload.c_str())) {
+        Serial.println("Dados publicados com sucesso no AWS IoT!");
+      } else {
+        Serial.print("Falha ao publicar dados no AWS IoT. Código: ");
+        Serial.println(mqtt_aws.state());
       }
     }
   }
