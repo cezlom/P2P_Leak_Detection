@@ -1,0 +1,61 @@
+@timestamp,@message,dados,Sensor,Energia
+2026-02-18 20:50:11.427,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.460052, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.460052, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:50:11.558,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.279007, ""p_in"": 1.512427, ""p_out"": 1.550953, ""t1"": 18.27648, ""t2"": 15.52038, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.279007, ""p_in"": 1.512427, ""p_out"": 1.550953, ""t1"": 18.27648, ""t2"": 15.52038, ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:50:12.514,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.65096, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.65096, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:50:12.812,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.739072, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.739072, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:55:59.933,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.006304, ""p_out"": 4.027135, ""t1"": 18.53442, ""t2"": 15.30432, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.006304, ""p_out"": 4.027135, ""t1"": 18.53442, ""t2"": 15.30432, ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:01.484,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.76543, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.76543, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:02.585,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.747682, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.747682, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:02.883,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.534495, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.534495, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:05.012,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.318856, ""p_in"": 3.985484, ""p_out"": 4.006335, ""t1"": 18.36245, ""t2"": 15.43398, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.318856, ""p_in"": 3.985484, ""p_out"": 4.006335, ""t1"": 18.36245, ""t2"": 15.43398, ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:06.499,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.754052, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.754052, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:07.587,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.754537, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.754537, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 20:56:07.877,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.527066, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.527066, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:22.667,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.875924, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.875924, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:22.936,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.775142, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.775142, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:23.045,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.512397, ""p_in"": 2.998945, ""p_out"": 3.018704, ""t1"": 18.8139, ""t2"": 15.52038, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.512397, ""p_in"": 2.998945, ""p_out"": 3.018704, ""t1"": 18.8139, ""t2"": 15.52038, ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:26.578,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.868535, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.868535, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:27.671,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.812588, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.812588, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:27.966,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.722495, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.722495, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:28.120,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 2.983076, ""p_out"": 3.008192, ""t1"": 18.36245, ""t2"": 15.47717, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 2.983076, ""p_out"": 3.008192, ""t1"": 18.36245, ""t2"": 15.47717, ""topico"": ""aws/esp/dados""}
+",,
+2026-02-18 21:01:31.580,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.860745, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.860745, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,

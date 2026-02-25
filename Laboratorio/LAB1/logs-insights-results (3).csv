@@ -1,0 +1,1204 @@
+@timestamp,@message,dados,Sensor,Pressao,Wavelet,Estado,IA
+2026-02-18 20:00:04.268,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:03.331,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:02.588,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.548695, ""p_out"": 3.569824, ""t1"": 18.83538, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.548695, ""p_out"": 3.569824, ""t1"": 18.83538, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:02.272,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:02.198,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.152165, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.152165, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:01.892,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.335847, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.335847, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:01.268,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:00.814,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.406262, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.406262, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 20:00:00.279,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:59.335,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:58.302,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:57.541,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.598431, ""p_out"": 3.622494, ""t1"": 18.70642, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.598431, ""p_out"": 3.622494, ""t1"": 18.70642, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:57.254,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:57.188,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.186344, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.186344, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:56.890,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.437143, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.437143, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:56.252,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:55.797,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.423995, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.423995, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:55.273,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:54.255,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:53.255,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:52.477,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.396094, ""p_in"": 3.658053, ""p_out"": 3.674435, ""t1"": 18.87838, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.396094, ""p_in"": 3.658053, ""p_out"": 3.674435, ""t1"": 18.87838, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:52.297,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:52.215,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.283678, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.283678, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:51.901,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.477866, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.477866, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:51.252,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:50.809,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.480986, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.480986, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:50.281,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:49.256,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:48.251,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:47.435,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.711328, ""p_out"": 3.734338, ""t1"": 18.70642, ""t2"": 15.93048, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.711328, ""p_out"": 3.734338, ""t1"": 18.70642, ""t2"": 15.93048, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:47.254,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:47.181,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.319129, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.319129, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:46.952,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.521966, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.521966, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:46.268,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:45.791,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.52906, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.52906, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:45.251,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:44.244,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:43.257,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:42.375,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.768174, ""p_out"": 3.79162, ""t1"": 18.74938, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.768174, ""p_out"": 3.79162, ""t1"": 18.74938, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:42.236,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:42.181,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.354688, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.354688, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:41.887,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.566168, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.566168, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:41.251,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:40.795,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.574366, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.574366, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:40.248,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:39.252,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:38.273,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:37.345,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.169125, ""p_in"": 3.828388, ""p_out"": 3.853582, ""t1"": 18.8139, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.169125, ""p_in"": 3.828388, ""p_out"": 3.853582, ""t1"": 18.8139, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:37.267,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:37.170,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.391095, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.391095, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:36.890,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.612314, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.612314, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:27.253,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.95959, ""p_out"": 3.982794, ""t1"": 19.05038, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 3.95959, ""p_out"": 3.982794, ""t1"": 19.05038, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:27.180,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.482379, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.482379, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:26.882,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.76528, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.76528, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:26.238,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:25.809,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.793823, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.793823, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:25.227,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:24.255,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:23.248,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:22.228,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:22.207,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.022681, ""p_out"": 4.045242, ""t1"": 18.55593, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.022681, ""p_out"": 4.045242, ""t1"": 18.55593, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:22.170,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.578014, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.578014, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:21.893,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.836392, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.836392, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:21.224,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:20.831,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.862295, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.862295, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:20.217,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:19.239,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:18.218,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:17.230,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:17.183,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.615165, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.615165, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:17.139,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.334229, ""p_in"": 4.088298, ""p_out"": 4.11329, ""t1"": 18.6849, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.334229, ""p_in"": 4.088298, ""p_out"": 4.11329, ""t1"": 18.6849, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:16.889,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.896147, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.896147, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:16.232,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:15.789,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.891098, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.891098, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:15.237,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:14.221,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:13.210,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:12.223,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:12.171,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.66017, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.66017, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:12.093,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.15529, ""p_out"": 4.177951, ""t1"": 18.74938, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.15529, ""p_out"": 4.177951, ""t1"": 18.74938, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:11.880,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.950273, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.950273, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:11.219,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:10.809,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.965617, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.965617, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:10.217,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:09.235,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:08.213,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:07.207,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:07.187,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.706555, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.706555, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:07.069,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.228941, ""p_out"": 4.24955, ""t1"": 18.8569, ""t2"": 16.08145, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.228941, ""p_out"": 4.24955, ""t1"": 18.8569, ""t2"": 16.08145, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:06.916,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.007572, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.007572, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:06.517,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:05.790,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.034293, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.034293, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:05.209,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:04.210,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:03.214,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:02.430,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.75, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:02.408,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.755168, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.755168, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:02.007,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.550659, ""p_in"": 4.302404, ""p_out"": 4.319145, ""t1"": 18.87838, ""t2"": 16.05987, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.550659, ""p_in"": 4.302404, ""p_out"": 4.319145, ""t1"": 18.87838, ""t2"": 16.05987, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:01.894,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.056276, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.056276, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:01.207,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:00.799,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.093745, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.093745, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:59:00.230,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:59.211,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:58.201,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:57.215,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:57.195,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.800704, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.800704, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:56.936,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.547571, ""p_in"": 4.375937, ""p_out"": 4.396763, ""t1"": 18.92138, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.547571, ""p_in"": 4.375937, ""p_out"": 4.396763, ""t1"": 18.92138, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:56.873,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.187551, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.187551, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:56.235,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:55.838,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.197682, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.197682, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:55.592,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:54.214,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:53.209,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:52.220,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:52.200,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.916613, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.916613, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:51.952,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.45634, ""p_out"": 4.476917, ""t1"": 18.74938, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.45634, ""p_out"": 4.476917, ""t1"": 18.74938, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:51.929,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.241678, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.241678, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:51.213,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:50.809,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.259696, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.259696, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:50.196,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:49.191,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:48.201,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:47.205,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:47.176,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.988791, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.988791, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:46.879,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.306139, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.306139, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:46.848,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.467397, ""p_in"": 4.531989, ""p_out"": 4.551462, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.467397, ""p_in"": 4.531989, ""p_out"": 4.551462, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:46.441,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:45.785,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.307565, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.307565, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:45.191,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:44.184,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:43.190,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:42.206,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:42.178,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.057572, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.057572, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:41.877,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.372646, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.372646, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:41.785,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.235272, ""p_in"": 4.615397, ""p_out"": 4.6375, ""t1"": 18.83538, ""t2"": 15.8226, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.235272, ""p_in"": 4.615397, ""p_out"": 4.6375, ""t1"": 18.83538, ""t2"": 15.8226, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:41.197,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:40.792,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.387414, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.387414, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:40.182,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:39.183,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:38.175,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:37.188,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:37.164,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.112449, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.112449, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:36.883,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.42974, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.42974, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:36.766,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.704657, ""p_out"": 4.716846, ""t1"": 18.7279, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.704657, ""p_out"": 4.716846, ""t1"": 18.7279, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:36.186,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:35.783,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.525074, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.525074, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:35.189,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:34.179,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:33.169,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:32.187,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:32.179,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.182929, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.182929, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:31.874,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.513846, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.513846, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:31.724,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.787971, ""p_out"": 4.807866, ""t1"": 18.66342, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 4.787971, ""p_out"": 4.807866, ""t1"": 18.66342, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:31.187,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:30.776,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.555825, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.555825, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:30.177,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:29.233,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:28.166,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:27.167,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:27.160,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.256804, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.256804, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:26.862,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.599181, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.599181, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:26.641,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.547571, ""p_in"": 4.884155, ""p_out"": 4.903782, ""t1"": 18.74938, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.547571, ""p_in"": 4.884155, ""p_out"": 4.903782, ""t1"": 18.74938, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:26.165,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:25.772,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.663965, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.663965, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:25.171,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:24.168,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:23.164,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:22.169,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:22.157,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.380887, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.380887, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:21.886,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.72268, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.72268, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:21.600,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.26561, ""p_in"": 4.991307, ""p_out"": 5.007512, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.26561, ""p_in"": 4.991307, ""p_out"": 5.007512, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:21.163,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:20.771,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.751092, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.751092, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:20.161,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:19.159,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:18.154,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:17.188,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.448075, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.448075, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:17.180,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:16.862,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.814767, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.814767, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:16.538,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.308944, ""p_in"": 5.094254, ""p_out"": 5.107424, ""t1"": 19.09338, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.308944, ""p_in"": 5.094254, ""p_out"": 5.107424, ""t1"": 19.09338, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:16.163,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:15.766,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.823971, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.823971, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:15.143,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:14.151,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:13.147,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:12.171,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.534264, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.534264, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:12.150,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:11.878,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.906445, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.906445, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:11.498,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.058879, ""p_in"": 5.204272, ""p_out"": 5.222727, ""t1"": 18.66342, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.058879, ""p_in"": 5.204272, ""p_out"": 5.222727, ""t1"": 18.66342, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:11.166,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:10.773,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.939901, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.939901, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:10.145,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:09.163,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:08.145,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:07.175,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.623001, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.623001, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:07.152,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:06.869,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.007536, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.007536, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:06.450,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.326658, ""p_out"": 5.341185, ""t1"": 18.70642, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.326658, ""p_out"": 5.341185, ""t1"": 18.70642, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:06.138,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:05.786,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.038611, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.038611, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:05.147,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:04.148,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:03.146,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:02.156,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.716301, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.716301, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:02.150,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:01.877,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.116506, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.116506, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:01.401,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.108628, ""p_in"": 5.459472, ""p_out"": 5.473535, ""t1"": 18.74938, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.108628, ""p_in"": 5.459472, ""p_out"": 5.473535, ""t1"": 18.74938, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:01.136,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:00.786,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.174324, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.174324, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:58:00.142,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:59.143,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:58.142,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:57.168,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.838897, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.838897, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:57.147,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:56.848,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.240312, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.240312, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:56.349,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.45473, ""p_in"": 5.623707, ""p_out"": 5.630573, ""t1"": 18.66342, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.45473, ""p_in"": 5.623707, ""p_out"": 5.630573, ""t1"": 18.66342, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:56.133,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:55.769,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.329819, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.329819, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:55.130,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:54.139,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:53.132,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:52.156,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.043118, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.043118, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:52.140,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:51.851,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.45334, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.45334, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:51.300,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.819918, ""p_out"": 5.829772, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.819918, ""p_out"": 5.829772, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:51.140,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.8125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:50.785,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.47076, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.47076, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:50.147,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:49.154,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:48.120,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:47.168,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.235662, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.235662, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:47.163,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:46.901,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.65102, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.65102, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:46.253,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 6.082643, ""p_out"": 6.089164, ""t1"": 18.6849, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 6.082643, ""p_out"": 6.089164, ""t1"": 18.6849, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:46.121,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:45.776,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.696573, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.696573, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:45.133,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:44.140,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:43.123,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:42.166,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.398806, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.398806, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:42.126,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:41.850,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.758149, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.758149, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:41.225,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.676983, ""p_in"": 6.140522, ""p_out"": 6.150626, ""t1"": 18.7279, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.676983, ""p_in"": 6.140522, ""p_out"": 6.150626, ""t1"": 18.7279, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:41.125,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:40.758,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.689807, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.689807, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:40.119,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:39.123,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:38.121,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:37.168,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.06838, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 5.06838, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:37.123,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:36.866,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.352147, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 5.352147, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:36.185,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.052905, ""p_in"": 5.629657, ""p_out"": 5.650874, ""t1"": 18.70642, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.052905, ""p_in"": 5.629657, ""p_out"": 5.650874, ""t1"": 18.70642, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:36.126,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:35.769,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.251918, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 5.251918, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:35.122,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:34.120,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:33.103,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:32.168,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.680849, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.680849, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:32.129,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:31.866,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.851704, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.851704, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:31.125,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:31.115,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.061541, ""p_out"": 5.084833, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 5.061541, ""p_out"": 5.084833, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:30.770,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.745044, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.745044, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:30.104,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:29.122,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:28.109,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:27.160,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.198213, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 4.198213, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:27.105,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:26.863,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.24884, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 4.24884, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:26.120,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:26.053,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.077923, ""p_in"": 4.388289, ""p_out"": 4.418637, ""t1"": 18.74938, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.077923, ""p_in"": 4.388289, ""p_out"": 4.418637, ""t1"": 18.74938, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:25.757,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.168982, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 4.168982, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:25.104,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:24.153,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:23.108,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:22.154,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.591707, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 3.591707, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:22.107,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:21.859,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.548569, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 3.548569, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:21.116,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:21.003,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.119177, ""p_in"": 3.575428, ""p_out"": 3.609093, ""t1"": 18.62042, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 3.119177, ""p_in"": 3.575428, ""p_out"": 3.609093, ""t1"": 18.62042, ""t2"": 16.03829, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:20.770,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.370899, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 3.370899, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:20.106,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:19.107,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.3125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:18.107,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.25, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:17.160,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.7364, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 2.7364, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:17.110,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:16.861,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.658905, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 2.658905, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:16.106,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:15.957,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 2.566287, ""p_out"": 2.601098, ""t1"": 18.62042, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 2.566287, ""p_out"": 2.601098, ""t1"": 18.62042, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:15.764,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.441921, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 2.441921, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:15.100,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.1875, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:14.114,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.125, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:13.095,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:12.222,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.661906, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.661906, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:12.098,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29.0625, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:11.853,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.564807, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.564807, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:11.168,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:10.904,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.347613, ""p_out"": 1.388258, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.347613, ""p_out"": 1.388258, ""t1"": 18.83538, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:10.775,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.262735, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.262735, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:10.093,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:09.090,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:08.105,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:07.154,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.06145, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.06145, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:07.086,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:06.853,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.047175, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.047175, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:06.516,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:06.077,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:05.860,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.09884, ""p_out"": 1.123103, ""t1"": 18.66342, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.09884, ""p_out"": 1.123103, ""t1"": 18.66342, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:05.754,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.03108, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.03108, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:05.543,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:05.076,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.639,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.635,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.039054, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.039054, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.378,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.114,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.104118, ""p_out"": 1.125246, ""t1"": 18.92138, ""t2"": 15.9736, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.104118, ""p_out"": 1.125246, ""t1"": 18.92138, ""t2"": 15.9736, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.082,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:04.048,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.080383, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.080383, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.698,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.113673, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.113673, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.672,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.558,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.093014, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.093014, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.364,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.339,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.050624, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.050624, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.242,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.092,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:03.005,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.045436, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.045436, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.790,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.041957, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.041957, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.790,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.107826, ""p_out"": 1.128739, ""t1"": 19.00738, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.107826, ""p_out"": 1.128739, ""t1"": 19.00738, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.770,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.770,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.094016, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.094016, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.769,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.764,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:57:02.749,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:51.131,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:50.794,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.084381, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.084381, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:50.753,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.110541, ""p_out"": 1.1327, ""t1"": 18.94287, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.110541, ""p_out"": 1.1327, ""t1"": 18.94287, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:50.114,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:49.102,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:48.108,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:47.200,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.105818, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.105818, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:47.098,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:46.920,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.08534, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.08534, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:46.136,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:45.943,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.062958, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.062958, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:45.708,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.114235, ""p_out"": 1.136862, ""t1"": 18.96438, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.114235, ""p_out"": 1.136862, ""t1"": 18.96438, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:45.107,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:44.110,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:43.106,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:42.205,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.093505, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.093505, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:42.158,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:41.903,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.082373, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.082373, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:41.090,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:40.780,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.066136, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.066136, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:40.664,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.117403, ""p_out"": 1.14157, ""t1"": 18.66342, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.117403, ""p_out"": 1.14157, ""t1"": 18.66342, ""t2"": 15.86575, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:40.126,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:39.103,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:38.104,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:37.223,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.083846, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.083846, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:37.098,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:36.882,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.074187, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.074187, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:36.091,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:35.791,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.053118, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.053118, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:35.607,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.119995, ""p_out"": 1.145904, ""t1"": 18.62042, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.119995, ""p_out"": 1.145904, ""t1"": 18.62042, ""t2"": 15.84417, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:35.103,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:34.176,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:33.093,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:32.214,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.078433, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.078433, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:32.084,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:31.885,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.06723, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.06723, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:31.409,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:30.788,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.119847, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.119847, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:30.583,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.12334, ""p_out"": 1.149875, ""t1"": 18.8569, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.12334, ""p_out"": 1.149875, ""t1"": 18.8569, ""t2"": 15.9089, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:30.101,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:29.081,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:28.089,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:27.214,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.078115, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.078115, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:27.086,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:26.893,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.058123, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.058123, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:26.076,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:25.788,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.110006, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.110006, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:25.542,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.12846, ""p_out"": 1.152962, ""t1"": 18.87838, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.12846, ""p_out"": 1.152962, ""t1"": 18.87838, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:25.091,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:24.076,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:23.078,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:22.238,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.079494, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.079494, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:22.084,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:21.869,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.129235, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.129235, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:21.235,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:20.771,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.111236, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.111236, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:20.489,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.132136, ""p_out"": 1.15576, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.132136, ""p_out"": 1.15576, ""t1"": 18.66342, ""t2"": 15.95205, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:20.169,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:19.083,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:18.107,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:17.206,"Log Bruto: {""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.130443, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_02"", ""local"": ""leito_02"", ""pressao_bar"": 1.130443, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:17.078,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:16.879,"Log Bruto: {""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.119003, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_04"", ""local"": ""leito_04"", ""pressao_bar"": 1.119003, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:16.102,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 29, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:15.773,"Log Bruto: {""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.103446, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_05"", ""local"": ""leito_05"", ""pressao_bar"": 1.103446, ""unidade"": ""bar"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:15.418,"Log Bruto: {""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.137131, ""p_out"": 1.159649, ""t1"": 18.6419, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_10"", ""f_in"": 0, ""f_out"": 0, ""p_in"": 1.137131, ""p_out"": 1.159649, ""t1"": 18.6419, ""t2"": 15.99517, ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:15.071,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:14.064,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
+2026-02-18 19:56:13.074,"Log Bruto: {""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+","{""sensor_id"": ""ESP_UTI_05_CALIB"", ""local"": ""leito_05"", ""temp_c"": 28.9375, ""pressao"": 1.335161, ""status"": ""operacional"", ""topico"": ""aws/esp/dados""}
+",,,,,
