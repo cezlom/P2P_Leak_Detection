@@ -1,0 +1,117 @@
+import pandas as pd
+import json
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Configuração de estilo visual para artigo científico
+sns.set_theme(style="whitegrid")
+
+def plotar_kpis_diagnostico(file_name, cenario_nome):
+    try:
+        df = pd.read_csv(file_name)
+        extracted = []
+
+        for i, row in df.iterrows():
+            msg = row['@message'] if '@message' in row and pd.notna(row['@message']) else ""
+            if "Log Bruto: " in msg:
+                json_str = msg.split("Log Bruto: ")[1].strip()
+                try:
+                    if json_str.startswith('"') and json_str.endswith('"'): json_str = json_str[1:-1]
+                    json_str = json_str.replace('""', '"')
+                    data = json.loads(json_str)
+
+                    sensor = data.get('sensor_id', 'Unknown')
+                    if sensor == "ESP_UTI_05_CALIB": sensor = "ESP_11"
+
+                    p_val = data.get('pressao', data.get('pressao_bar', data.get('p_out')))
+                    f_val = data.get('f_out', 0.0)
+
+                    if p_val is not None:
+                        w_val = (5.0 - float(p_val)) / 1.41421356
+                        extracted.append({
+                            'Time': row['@timestamp'],
+                            'Sensor': sensor,
+                            'Pressao': float(p_val),
+                            'Wavelet': float(w_val),
+                            'Fluxo': float(f_val)
+                        })
+                except: pass
+
+        if not extracted:
+            return
+
+        df_dados = pd.DataFrame(extracted)
+        df_dados['Time'] = pd.to_datetime(df_dados['Time'])
+        df_dados = df_dados.sort_values('Time')
+
+        tempo_final = df_dados['Time'].max()
+        janela = df_dados[df_dados['Time'] >= tempo_final - pd.Timedelta(minutes=3)]
+        if janela.empty: janela = df_dados
+
+        rede_stats = janela.groupby('Sensor').agg({
+            'Pressao': 'mean',
+            'Wavelet': 'mean',
+            'Fluxo': 'max'
+        }).to_dict('index')
+
+        pressoes = {s: d['Pressao'] for s, d in rede_stats.items()}
+        p_min_rede = min(pressoes.values()) if pressoes else 5.0
+
+        resultados = []
+        for sensor, dados in rede_stats.items():
+            p_atual = dados['Pressao']
+            w_atual = dados['Wavelet']
+            f_atual = dados['Fluxo']
+            score = 0
+
+            delta_p = max(0, 5.0 - p_atual)
+            score += delta_p * 15
+            score += abs(w_atual) * 10
+
+            fluxo_rede = max([d['Fluxo'] for d in rede_stats.values()])
+            if fluxo_rede > 0.5: score += 25
+            if p_atual <= p_min_rede + 0.05: score += 15
+
+            probabilidade = min(99.0, round(score, 1))
+            if p_atual >= 4.5 and abs(w_atual) < 0.2: probabilidade = 0
+
+            resultados.append({'Sensor': sensor, 'Probabilidade': probabilidade})
+
+        # ==========================================
+        # GERAÇÃO DA IMAGEM DO GRÁFICO DE BARRAS
+        # ==========================================
+        df_plot = pd.DataFrame(resultados).sort_values(by='Probabilidade', ascending=True)
+
+        # Define as cores: Vermelho se > 90%, Laranja se > 60%, Azul para o resto
+        cores = ['#e74c3c' if p >= 90 else '#e67e22' if p >= 60 else '#3498db' for p in df_plot['Probabilidade']]
+
+        plt.figure(figsize=(10, 5))
+        barras = plt.barh(df_plot['Sensor'], df_plot['Probabilidade'], color=cores, edgecolor='black')
+
+        plt.title(f'Diagnóstico - {cenario_nome}', fontsize=16, fontweight='bold', pad=15)
+        plt.xlabel('Probabilidade de ser o Epicentro da Falha (%)', fontsize=12)
+        plt.ylabel('Nós da Rede (Sensores)', fontsize=12)
+        plt.xlim(0, 110) # Espaço extra para o texto caber
+
+        # Adiciona a percentagem à frente de cada barra
+        for barra in barras:
+            largura = barra.get_width()
+            plt.text(largura + 2, barra.get_y() + barra.get_height()/2,
+                     f'{largura:.1f}%',
+                     va='center', fontsize=12, fontweight='bold', color='black')
+
+        plt.tight_layout()
+
+        # Salva a imagem em alta qualidade
+        nome_arquivo_img = f"KPI_{cenario_nome.split(':')[0].replace(' ', '_')}.png"
+        plt.savefig(nome_arquivo_img, dpi=300, bbox_inches='tight')
+        plt.show()
+
+    except Exception as e:
+        pass # Silencia erros de ficheiros não encontrados para não sujar o Colab
+
+# GERA OS GRÁFICOS (Execute isto depois de fazer upload dos CSVs no Colab)
+plotar_kpis_diagnostico("logs-insights-results (2).csv", "Lab 1: Vazamento na UTI")
+plotar_kpis_diagnostico("logs-insights-results (4).csv", "Lab 2: Falha Sistêmica")
+plotar_kpis_diagnostico("logs-insights-results (5).csv", "Lab 3: Vazamento na Fonte")
+plotar_kpis_diagnostico("logs-insights-results (6).csv", "Lab 4: Vazamento no Ramal")
