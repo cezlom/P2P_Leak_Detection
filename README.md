@@ -3,7 +3,7 @@
 Este repositório contém uma prova de conceito (PoC) para detecção e localização de vazamentos em rede (abordagem P2P), combinando:
 - **Firmware ESP32** para aquisição/telemetria (`esp32.ino`)
 - **Backend AWS Lambda + DynamoDB** para inferência e diagnóstico P2P (`lambda_function.py`)
-- **Datasets CSV** organizados em `Laboratorio/` e/ou `Classificacao/`
+- **Datasets CSV** organizados em `Laboratorio/`  `Classificacao/`
 
 Estrutura atual do repositório:
 - `Laboratorio/`
