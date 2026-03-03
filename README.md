@@ -38,11 +38,7 @@ Estrutura atual do repositório:
 
 > **Importante:** para produção, recomenda-se evitar `Scan` em DynamoDB (custo/latência) e usar `Query` via chaves/índices (GSI), conforme modelagem do banco.
 
-### 3) Notebook — `Simig_AI.ipynb`
-- Exploração, leitura de CSVs e avaliação inicial do modelo.
-- Recomendado migrar o treino final para um script reprodutível (`train_model.py`) quando for consolidar para defesa/produção.
 
----
 
 ## Datasets (CSV)
 
@@ -53,11 +49,6 @@ Os CSVs ficam em:
 O treinamento normalmente usa:
 - **Normal / Sem vazamento**
 - **Falha / Com vazamento**
-
-> Padronize nomes para facilitar automação, por exemplo:
-- `*_SemVazamento*.csv`
-- `*_ComVazamento*.csv`
-
 ---
 
 ## Observação sobre o ecossistema AWS e possíveis divergências
