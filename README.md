@@ -60,20 +60,29 @@ O treinamento normalmente usa:
 
 ---
 
-## Treinamento reprodutível (recomendado)
+## Observação sobre o ecossistema AWS e possíveis divergências
 
-Embora exista o notebook, o caminho “defensável” (banca/produção) é treinar via script com:
-- feature engineering idêntico ao backend (evita *feature mismatch*)
-- split por arquivo/sensor/tempo (evita *data leakage*)
-- export de artefatos (`model.joblib`, `scaler.joblib`) + metadados/métricas
+Esta PoC foi concebida e validada **no ecossistema da AWS** (ex.: AWS Lambda, DynamoDB e empacotamento de dependências via Layer ou container).  
+Por esse motivo, **podem existir pequenas divergências** ao executar o projeto fora da AWS (ambiente local/Colab), principalmente relacionadas a:
+
+- **Versões e compatibilidade de dependências** (ex.: `numpy`, `scikit-learn`, `PyWavelets`, `joblib`)
+- **Formato/estrutura do evento** que chega na Lambda (integração MQTT/IoT/HTTP pode alterar chaves/nomes)
+- **Serialização de dados no DynamoDB** (ex.: uso de `Decimal` em vez de `float`)
+- **Latência e janela temporal do diagnóstico P2P** (coleta distribuída e consistência eventual podem impactar leituras recentes)
+- **Empacotamento do modelo** (`model.joblib`/`scaler.joblib`) e caminhos de arquivo no runtime da Lambda
+
+Para reduzir discrepâncias, recomenda-se:
+- Fixar versões no `requirements.txt` e, quando possível, usar **container image** na Lambda.
+- Garantir **consistência treino ↔ inferência** (mesma engenharia de features e mesma ordem das variáveis).
+- Padronizar o schema do payload enviado pelo ESP32 e documentar as chaves esperadas pela Lambda.
 
 ### 1) Pré-requisitos
 Python 3.10+.
-
-Crie `requirements.txt` (exemplo):
-```txt
-numpy>=1.24
-pandas>=2.0
-scikit-learn>=1.3
-joblib>=1.3
-PyWavelets>=1.4
+`requirements.txt`:
+|
+__
+    numpy>=1.24
+    pandas>=2.0
+    scikit-learn>=1.3
+    joblib>=1.3
+    PyWavelets>=1.4
