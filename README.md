@@ -10,7 +10,7 @@ Estrutura atual do repositório:
 - `Classificacao/`
 - `esp32.ino`
 - `lambda_function.py`
-- `README.md` :contentReference[oaicite:2]{index=2}
+- `README.md` :contentReference
 
 ---
 
